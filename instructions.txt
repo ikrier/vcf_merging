@@ -1,0 +1,7 @@
+First, run the thing to insert the headers
+Then, in each directory you can merge them with the script
+Then index the resulting merged files
+Then merge the merged files
+Then use filter.py (but the current filter used is in the github repository)
+
+after, if needed, remove the unwanted characters
